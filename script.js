@@ -170,7 +170,7 @@ function sellWeapon() {
         text.innerText = "Você vendeu " + currentWeapon + ".";
         text.innerText += " Você tem em seu inventario: " + inventory;
     } else {
-        text.innerText = "Não venda sua unica arma!"
+        text.innerText = "Não venda sua unica arma!";
     }
 }
 
