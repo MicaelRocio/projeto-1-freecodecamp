@@ -94,7 +94,7 @@ const locations = [
         name: "win",
         "button text": ["REPLAY?", "REPLAY?", "REPLAY?"],
         "button functions": [restart, restart, restart],
-        text: "You defeat the dragon! YOU WIN THE GAME! &#x1F389;"
+        text: "Você derrotou o Dragão! Você venceu O JOGO! &#x1F389;"
     },
     {
         name: "easter egg",
